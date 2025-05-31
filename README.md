@@ -20,6 +20,8 @@ This format not only helps me reinforce what I’ve learned, but may also benefi
 ---
 
 ## 📁 Folder Structure Example
+
+```
 /Section-02-HTML-CSS/
 ├── 2.1 Heading Elements
 ├── 2.2 Paragraph Elements
@@ -42,9 +44,8 @@ This format not only helps me reinforce what I’ve learned, but may also benefi
 │   ├── goal.png
 │   ├── index.html
 │   └── style.css
+```
 
-
----
 
 ## 🛠 Tech Stack & Tools
 
