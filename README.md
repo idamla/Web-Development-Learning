@@ -1,20 +1,25 @@
-💻 Angela Yu - The Complete Full-Stack Web Development Bootcamp – Practice Projects
-This repository contains my personal notes, exercises, and project solutions from Angela Yu's "The Complete Full-Stack Web Development Bootcamp" on Udemy.
+# 💻 Angela Yu - The Complete Full-Stack Web Development Bootcamp – Practice Projects
 
-📚 Structure & Progress
-I’ve structured the repository by course sections, and within each folder, you'll find relevant exercises and solutions. Each project or practice file typically includes:
+This repository contains my personal notes, exercises, and project solutions from **Angela Yu's "The Complete Full-Stack Web Development Bootcamp"** on Udemy.
 
-✅ A clear description of the exercise
+---
 
-❓ The original question or goal of the task
+## 📚 Structure & Progress
 
-💡 My solution along with explanations and comments
+I’ve structured the repository by course sections, and within each folder, you'll find relevant exercises and solutions.  
+Each project or practice file typically includes:
+
+- ✅ A clear description of the exercise  
+- ❓ The original question or goal of the task  
+- 💡 My solution along with explanations and comments
 
 This format not only helps me reinforce what I’ve learned, but may also benefit others who are following the same course.
 
-🚧 Ongoing Learning: I am continuously updating this repository as I progress through the course.
+> 🚧 **Ongoing Learning:** I am continuously updating this repository as I progress through the course.
 
-📁 Folder Structure Example
+---
+
+## 📁 Folder Structure Example
 /Section-02-HTML-CSS/
 ├── 2.1 Heading Elements
 ├── 2.2 Paragraph Elements
@@ -38,14 +43,24 @@ This format not only helps me reinforce what I’ve learned, but may also benefi
 │   ├── index.html
 │   └── style.css
 
-🛠 Tech Stack & Tools
-- HTML5
-- CSS3
-- JavaScript (Upcoming)
-- Visual Studio Code
-- Git & GitHub
 
-🚀 About the Course
-Angela Yu’s course is hands-on and project-driven, covering everything from basic HTML/CSS to full-stack development (including Node.js, Express, MongoDB, and more). I’m documenting my journey section by section, starting from the fundamentals.
+---
 
-⭐️ Stay tuned for more updates as I dive deeper into frontend and backend topics!
+## 🛠 Tech Stack & Tools
+
+- HTML5  
+- CSS3  
+- JavaScript *(Upcoming)*  
+- Visual Studio Code  
+- Git & GitHub  
+
+---
+
+## 🚀 About the Course
+
+Angela Yu’s course is hands-on and project-driven, covering everything from basic HTML/CSS to full-stack development (including Node.js, Express, MongoDB, and more).  
+I’m documenting my journey section by section, starting from the fundamentals.
+
+---
+
+⭐️ **Stay tuned for more updates as I dive deeper into frontend and backend topics!**
